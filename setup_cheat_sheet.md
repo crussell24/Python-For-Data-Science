@@ -9,7 +9,7 @@ Python Anaconda Environment Cheatsheet<a name="TOP"></a>
 	•	conda install pip
 	•	pip install -r filename.txt 
 	⁃	NOTE: used when creating a requirements.txt file with your libraries
-	⁃	best practice is to create this near where your jupyternote book will be saved
+	⁃	best practice is to create this in the same folder as your jupyter notebook file (.ipynb)
 
 ### TO INSTALL JUPYTER
 	•	pip install jupyter
