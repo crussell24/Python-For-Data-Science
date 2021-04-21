@@ -11,8 +11,8 @@ This course teaches the foundational knowledge of the following packages:
 
 Then there is several Data Capstone projects:
 
-* 911 Calls
-* Financial Data
+* [911 Calls](https://github.com/crussell24/Python-For-Data-Science/tree/main/911%20Capstone "Named link title")
+* Financial Data (Add link afterwards)
 
 Before several lessons on the following topics
 
